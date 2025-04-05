@@ -1,6 +1,6 @@
 Project Name: go-DocuGenie
 Main Language: Go
-Description: go-DocuGenie is a tool for generating summaries of Go projects. It can read files in various formats and generate a concise summary of the project's contents.
+Description: go-DocuGenie is a tool for generating summaries of your projects. It can read files in various formats and generate a concise summary of the project's contents.
 
 Features/Tech Stack:
 

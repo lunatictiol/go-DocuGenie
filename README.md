@@ -21,8 +21,6 @@ The tool expects to find the following files in the root directory of your proje
 * `summarizer.go` - the language-specific summarizer for Go projects
 * `types.go` - contains type definitions for the `go-DocuGenie` package
 
-The tool also expects to find a `config.yaml` file in the root directory of your project, which contains configuration settings for the tool.
-
 Inferring Project Name and Language:
 By default, go-DocuGenie will infer the project name and language from the current folder path. If you want to specify a different project name or language, you can do so by passing the`-f` flag to the command. For example, `go-docuGenie generate -f .go`.
 

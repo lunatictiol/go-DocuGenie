@@ -46,6 +46,9 @@ Instructions:
 Return only the markdown content. Do not wrap it in code blocks or provide any explanations.
 
 Keep formatting simple and avoid unnecessary characters — this will be written directly to a file using Go.
+
+The return should be just the markdown  and nothing else.
+
 `
 
 	data := "Peoject summary : " + fmt.Sprintf("%v", summary)
